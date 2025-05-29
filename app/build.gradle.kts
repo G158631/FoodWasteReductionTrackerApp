@@ -6,7 +6,7 @@ plugins {
 
 android {
     namespace = "com.glenys001.foodwastereductiontrackerapp"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.glenys001.foodwastereductiontrackerapp"
